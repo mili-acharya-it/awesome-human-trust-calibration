@@ -1,0 +1,43 @@
+# Citation Integrity Audit
+
+## Lab 1
+
+**Student:** Mili Atulbhai Acharya  
+**Roll Number:** MHM2026006  
+**Programme:** M.Tech IT — HMIIT  
+**Topic ID:** T14  
+**Topic:** Human Trust Calibration in Human–Agent Collaboration for Autonomous Research  
+**AI Tool:** ChatGPT  
+**Generation date:** 21 August 2026
+
+## Audit Summary
+
+The original AI-generated paper contained 28 references. Ten references were selected systematically for deep verification using the prescribed sampling procedure.
+
+### Results
+
+| Classification | Count |
+|---|---:|
+| Verified | 4 |
+| Wrong metadata | 4 |
+| Frankenstein | 0 |
+| Fabricated | 0 |
+| Identifier mismatch | 2 |
+| **Total audited** | **10** |
+
+**Authenticity Score:** 77.5/100  
+**Prediction Accuracy:** 80%
+
+The audit demonstrated that citations can look highly convincing while still containing incorrect metadata or identifier problems.
+
+## Main Lesson
+
+The presence of a citation is not proof that the cited work exists, that its metadata are correct, or that it supports the claim for which it was cited. AI can help discover candidate references, but final verification should rely on publisher records, DOI records, scholarly indexes, or other authoritative sources.
+
+## Original Audit
+
+Upload the completed Lab 1 PDF here:
+
+`Citation_Integrity_Audit.pdf`
+
+The repository should not upload copyrighted papers belonging to other researchers. Only the student's own audit document should be stored in this folder.
