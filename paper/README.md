@@ -6,6 +6,6 @@ This folder contains the student's original AI-assisted research paper generated
 
 Upload the original PDF as:
 
-`AI_Assisted_Research_Paper.pdf`
+`Human_Trust_Calibration_in_Human.pdf`
 
 Do not replace the original experimental paper with a later corrected version. The original output is part of the citation-integrity audit evidence.
